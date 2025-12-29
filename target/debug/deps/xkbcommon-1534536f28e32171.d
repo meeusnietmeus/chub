@@ -1,0 +1,11 @@
+/home/humongoushard/Development/chub/target/debug/deps/xkbcommon-1534536f28e32171.d: /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/lib.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/mod.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/compose.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/ffi.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/keysyms.rs
+
+/home/humongoushard/Development/chub/target/debug/deps/libxkbcommon-1534536f28e32171.rlib: /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/lib.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/mod.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/compose.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/ffi.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/keysyms.rs
+
+/home/humongoushard/Development/chub/target/debug/deps/libxkbcommon-1534536f28e32171.rmeta: /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/lib.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/mod.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/compose.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/ffi.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/keysyms.rs
+
+/home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/lib.rs:
+/home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/mod.rs:
+/home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/compose.rs:
+/home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/ffi.rs:
+/home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/keysyms.rs:

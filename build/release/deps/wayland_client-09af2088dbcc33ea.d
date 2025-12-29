@@ -1,0 +1,10 @@
+/home/humongoushard/Development/chub/build/release/deps/wayland_client-09af2088dbcc33ea.d: /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/lib.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/conn.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/event_queue.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/globals.rs
+
+/home/humongoushard/Development/chub/build/release/deps/libwayland_client-09af2088dbcc33ea.rlib: /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/lib.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/conn.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/event_queue.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/globals.rs
+
+/home/humongoushard/Development/chub/build/release/deps/libwayland_client-09af2088dbcc33ea.rmeta: /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/lib.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/conn.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/event_queue.rs /home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/globals.rs
+
+/home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/lib.rs:
+/home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/conn.rs:
+/home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/event_queue.rs:
+/home/humongoushard/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/globals.rs:
